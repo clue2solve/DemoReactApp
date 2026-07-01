@@ -189,7 +189,7 @@ const App: React.FC = () => {
       <main className="welcome-container">
         <header className="welcome-hero">
           <Rocket />
-          <h1 className="welcome-title">You shipped on Clue2App on June 30th 2026!</h1>
+          <h1 className="welcome-title">You shipped on Clue2App!</h1>
           <p className="welcome-subtitle">
             Your React 18 / TypeScript / CRA app is live and serving at this URL.
           </p>
